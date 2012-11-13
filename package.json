@@ -1,4 +1,5 @@
 {
     "name": "ipc-rpc",
-    "main": "./lib/ipc.js"
+    "main": "./lib/ipc.js",
+    "version": "0.1.0"
 }
